@@ -505,8 +505,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -27.801, y: 0}
-  m_SizeDelta: {x: 44.3979, y: 100}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 156.8982, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1613071182
 MonoBehaviour:
@@ -539,11 +539,11 @@ MonoBehaviour:
   m_supportRichText: 1
   m_iconSize: 24
   m_iconOffset: {x: 0, y: 0}
-  m_iconAlignment: 0
-  m_alignment: 0
-  m_lineSpacing: 0
+  m_iconAlignment: 1
+  m_alignment: 1
+  m_lineSpacing: 2
   m_horizontalOverflow: 0
-  m_verticalOverflow: 0
+  m_verticalOverflow: 1
   m_enableShadow: 0
   m_shadowEffectDistance: {x: 1, y: -1}
   m_shadowTopLeftColor: {r: 0, g: 0, b: 0, a: 1}
@@ -556,6 +556,6 @@ MonoBehaviour:
   m_emojiFPS: 4
   m_defaultLinkColor: {r: 0, g: 0.75, b: 1, a: 1}
   m_underlineHeight: 1
-  m_enableAsyncRendering: 0
+  m_enableAsyncRendering: 1
   m_elementsPerFrame: 10
   m_asyncThreshold: 20
